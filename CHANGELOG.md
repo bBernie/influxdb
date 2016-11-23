@@ -18,6 +18,7 @@ The stress tool `influx_stress` will be removed in a subsequent release. We reco
 - [#7036](https://github.com/influxdata/influxdb/issues/7036): Switch logging to use structured logging everywhere.
 - [#7723](https://github.com/influxdata/influxdb/pull/7723): Remove the override of GOMAXPROCS.
 - [#7633](https://github.com/influxdata/influxdb/pull/7633): improve write performance significantly.
+- [#4619](https://github.com/influxdata/influxdb/issues/4619): Support subquery execution in the query language.
 
 ### Bugfixes
 
